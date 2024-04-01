@@ -1,0 +1,25 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;}
+h1 { 
+    text-align:center; 
+    font-family:  'verdana'; 
+    font-size: 2ems; 
+    color :#DE101D }
+p {
+    text-align:justify; 
+    font-weight: 14px; 
+    color:#850F16; 
+    font-family: 'Times New Roman';}
+
+div{
+    background-color:#DB5B0B;
+    border: 2px solid #8F3C09;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
